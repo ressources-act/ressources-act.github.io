@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574975808769.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1435146726",
+    "id" : "CFD75184",
+    "lastKnownWriteTime" : 1574975873,
+    "last_content_update" : 1574975873768,
+    "path" : "~/Documents/GitHub/ressources-act.github.io/blogdown.R",
+    "project_path" : "blogdown.R",
+    "properties" : {
+        "cursorPosition" : "5,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
