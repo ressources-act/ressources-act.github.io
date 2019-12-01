@@ -1,0 +1,8 @@
+---
+title: "Premier article"
+author: "Gabriel Crépeault-Cauchon"
+date: "1er décembre 2019"
+categories: ["General"]
+tags: ["welcome", 'R']
+---
+Ceci est le texte du premier article

@@ -1,0 +1,11 @@
+---
+title: Guide de survie en actuariat
+author: ressources-act
+date: '2019-12-01'
+slug: guide-de-survie-en-actuariat
+categories:
+  - Notes de cours
+tags: []
+---
+
+# TODO
